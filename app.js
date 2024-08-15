@@ -13,3 +13,5 @@ function escreverTexto() {
 }
 
 escreverTexto();
+
+console.log('Backend logic initialized');
