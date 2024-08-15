@@ -11,5 +11,5 @@ function escreverTexto() {
     setTimeout(escreverTexto, atraso);
   }
 }
-
 escreverTexto();
+console.log('Backend logic initialized');
