@@ -12,4 +12,5 @@ function escreverTexto() {
   }
 }
 escreverTexto();
+console.log('Feature UI loaded');
 console.log('Backend logic initialized');
