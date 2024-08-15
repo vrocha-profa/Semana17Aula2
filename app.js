@@ -13,3 +13,5 @@ function escreverTexto() {
 }
 
 escreverTexto();
+
+console.log('Feature UI loaded');
